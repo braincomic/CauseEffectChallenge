@@ -1,0 +1,19 @@
+{
+    "train_pairs_path": "C:/Kaggle/KaggleCauseEffect/DATA/big_train_pairs.csv",
+    "train_target_path": "C:/Kaggle/KaggleCauseEffect/DATA/big_train_target.csv",
+    "train_info_path": "C:/Kaggle/KaggleCauseEffect/DATA/big_train_publicinfo.csv",
+    "valid_pairs_path": "C:/Kaggle/KaggleCauseEffect/DATA/small_sample_valid_pairs.csv",
+    "solution_path": "C:/Kaggle/KaggleCauseEffect/DATA/small_sample_valid_target.csv",
+    "valid_info_path": "C:/Kaggle/KaggleCauseEffect/DATA/small_sample_valid_publicinfo.csv",
+    "model_path": "C:/Kaggle/KaggleCauseEffect/PYTHON/trained_model.pickle",
+    "model_path_full": "C:/Kaggle/KaggleCauseEffect/PYTHON/trained_model_full.pickle",
+    "model_path_numnum": "C:/Kaggle/KaggleCauseEffect/PYTHON/trained_model_numnum.pickle",
+    "model_path_catcat": "C:/Kaggle/KaggleCauseEffect/PYTHON/trained_model_catcat.pickle",
+    "model_path_catnum": "C:/Kaggle/KaggleCauseEffect/PYTHON/trained_model_catnum.pickle",
+    "model_path_numcat": "C:/Kaggle/KaggleCauseEffect/PYTHON/trained_model_numcat.pickle",
+    "submission_path": "C:/Kaggle/KaggleCauseEffect/PYTHON/predictions.csv",
+    "submission_path_cat" : "C:/Kaggle/KaggleCauseEffect/PYTHON/predictions_cat.csv",
+    "submission_path_full": "C:/Kaggle/KaggleCauseEffect/PYTHON/predictions_full.csv",
+    "submission_path_both": "C:/Kaggle/KaggleCauseEffect/PYTHON/predictions_both.csv",
+    "submission_path_weighted": "C:/Kaggle/KaggleCauseEffect/PYTHON/predictions_weighted.csv"
+}
