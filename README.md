@@ -4,15 +4,21 @@ CauseEffectChallenge
 My submission to the ChaLearn cause-effect pair challenge, which was hosted by Kaggle
 
 Version: 1.0
+
 Date: 19 August 2013
+
 Environment: Python 2.7.2
+
 OS: Windows XP
 
 Computer: Intel(R) Xeon(R) CPU, E-3-1230 V2 @ 3.30GHz, 3.29 GHz, 3.47 GB of RAM
+
 Disk space needed: limited (less than 1 GB)
 
 Time needed to predict: about 2 hours
+
 Best score obtained from this version: 0.79026
+
 
 === Installation instructions ===
 
